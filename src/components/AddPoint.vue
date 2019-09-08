@@ -2,7 +2,7 @@
     <div>
         <p>hello nihao</p>
         <p>{{ resultStr }}</p>
-        <p @click="backBtnClick">fanhui</p>      
+        <p @click="backBtnClick">fanhui zhy</p>      
     </div>
 </template>
 <script>
